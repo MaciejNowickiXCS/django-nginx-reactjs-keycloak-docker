@@ -9,5 +9,3 @@ Make sure you have [docker](https://docs.docker.com/install/) and [docker-compos
 ```shell
 docker-compose up
 ```
-
-[Code example for my blog post](http://felipelinsmachado.com/connecting-django-reactjs-via-nginx-using-docker-containers/)
